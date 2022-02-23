@@ -1,0 +1,34 @@
+{
+  "richContent": [
+    [
+      {
+        "event": {
+          "parameters": {},
+          "languageCode": "en",
+          "name": "click_status_request"
+        },
+        "icon": {
+          "color": "#FF9800",
+          "type": "chevron_right"
+        },
+        "link": "",
+        "text": "Status Request",
+        "type": "button"
+      },
+      {
+        "text": "Repair Registration",
+        "icon": {
+          "type": "chevron_right",
+          "color": "#FF9800"
+        },
+        "type": "button",
+        "event": {
+          "name": "click_repair_registration",
+          "languageCode": "en",
+          "parameters": {}
+        },
+        "link": ""
+      }
+    ]
+  ]
+}
