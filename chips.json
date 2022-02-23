@@ -1,0 +1,28 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "chips",
+        "options": [
+          {
+            "text": "Yes",
+		"event": {
+          "name": "click_yes",
+          "parameters": {},
+          "languageCode": "en"
+     			  },
+          "link":"https://example.com"
+	      },
+          {
+            "text": "No",
+		"event": {
+          "name": "click_no",
+          "parameters": {},
+          "languageCode": "en"
+        }
+          }
+        ]
+      }
+    ]
+  ]
+}
