@@ -10,8 +10,7 @@
           "name": "click_yes",
           "parameters": {},
           "languageCode": "en"
-     			  },
-          "link":"https://example.com"
+     			  }
 	      },
           {
             "text": "No",
