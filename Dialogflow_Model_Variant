@@ -1,0 +1,31 @@
+#Try with these different settings for Phone Call Integration 
+{
+"audioEncoding": "LINEAR16",
+"sampleRateHertz": 16000,
+"singleUtterance": false,
+"enableWordInfo": false,
+"model": "latest_long"
+}
+
+{
+"audioEncoding": "FLAC",
+"sampleRateHertz": 16000,
+"singleUtterance": false,
+"enableWordInfo": false,
+"model": "latest_long"
+}
+
+{
+"audioEncoding": "LINEAR16",
+"sampleRateHertz": 16000,
+"singleUtterance": false,
+"enableWordInfo": false,
+"model": "phone_call"
+}
+{
+"audioEncoding": "FLAC",
+"sampleRateHertz": 16000,
+"singleUtterance": false,
+"enableWordInfo": false,
+"model": "phone_call"
+}
